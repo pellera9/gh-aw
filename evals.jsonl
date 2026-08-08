@@ -1,0 +1,2 @@
+{"id":"stale-drafts-triaged","question":"Did the workflow review open draft pull requests and classify stale drafts according to the warning and cleanup policy?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-08T11:17:45.457Z","runid":"31254537510"}
+{"id":"warnings-or-closures-applied","question":"Were the expected labels, comments, and closures applied to stale draft pull requests when appropriate?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-08T11:17:45.457Z","runid":"31254537510"}
