@@ -1,0 +1,2 @@
+{"id":"scan_completed","question":"Did the agent complete a scan of recent code changes and report on whether malicious patterns were found?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-08T14:03:50.035Z","runid":"31260877904"}
+{"id":"alert_or_noop","question":"Was a code scanning alert created when threats were found, or does the agent output confirm the scan found no suspicious patterns?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-08T14:03:50.035Z","runid":"31260877904"}
