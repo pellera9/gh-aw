@@ -1,0 +1,2 @@
+{"id":"concurrency_analyzed","question":"Did the agent analyze safe-outputs MCP server tools for thread-safety and race conditions?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-10T10:28:23.311Z","runid":"31379027133"}
+{"id":"findings_reported_or_noop","question":"Were concurrency issues reported, or was noop used when all tools were thread-safe?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-10T10:28:23.311Z","runid":"31379027133"}
