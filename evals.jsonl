@@ -1,0 +1,2 @@
+{"id":"repair-or-optimization-path","question":"Did the workflow check validation-status first and then follow the correct repair or optimization path for this run?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-10T14:33:59.158Z","runid":"31397803370"}
+{"id":"pr-created-or-noop","question":"Was a focused CI improvement pull request created when actionable work was found, or was noop called when CI was already healthy?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-10T14:33:59.158Z","runid":"31397803370"}
