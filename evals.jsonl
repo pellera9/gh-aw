@@ -1,0 +1,2 @@
+{"id":"activity_collected","question":"Did the agent collect daily repository activity including commits, PRs, issues, and discussions?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-10T16:11:50.840Z","runid":"31407326915"}
+{"id":"chronicle_created","question":"Was a narrative chronicle discussion or report created summarizing the day's activity?","answer":"UNKNOWN","model":"evals","timestamp":"2026-08-10T16:11:50.840Z","runid":"31407326915"}
