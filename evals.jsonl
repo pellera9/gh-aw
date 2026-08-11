@@ -1,0 +1,2 @@
+{"id":"digest-generated","question":"Did the workflow analyze the prefetched repository activity and generate a coherent daily news digest?","answer":"UNKNOWN","model":"copilot/gpt-5.4","timestamp":"2026-08-11T10:01:36.666Z","runid":"31377124224"}
+{"id":"discussion-created","question":"Was a daily-news discussion created or updated successfully with the report output?","answer":"UNKNOWN","model":"copilot/gpt-5.4","timestamp":"2026-08-11T10:01:36.666Z","runid":"31377124224"}
